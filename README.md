@@ -1,7 +1,7 @@
 
 ---
-
-<h1 align="center">Hi 👋, I'm Soumyo Sarkar</h1>
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=100&color=007907&center=true&vCenter=true&width=435&lines=Hey!;I+am+Soumyo" alt="Typing SVG" /></a>  </h1>
 <h3 align="center">Full-Stack MERN Developer | Django Learner | B.Tech ECE</h3>
 
 <p align="center">
@@ -49,18 +49,7 @@
 
 ---
 
-## 📊 GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soumyosarkar&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soumyosarkar&theme=tokyonight" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyosarkar&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
-</p>
-
----
 
 ## 🏆 Achievements & Highlights
 
